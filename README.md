@@ -1,7 +1,9 @@
-# Accurate numerical modeling, uncertainty quantification and sensitivity analysis of ion concentration dynamics in brain tissue 
+# Efficient uncertainty quantification and sensitivity analysis of electrodiffusive neuron models
 
-This code was used to produce the results presented in my master thesis work. 
-The model studied was presented in Sætra et al., *PLoS Computational Biology*, 17(7), e1008143 (2021): 
+This code was used to produce the results presented in Signorelli, L. (2023): \
+[Efficient Uncertainty Quantification and Sensitivity Analysis of Electrodiffusive Neuron Models](https://hdl.handle.net/10589/211026).
+
+The model studied was presented in Sætra et al., *PLoS Computational Biology*, 17(7), e1008143 (2021):\
 [An electrodiffusive neuron-extracellular-glia model for exploring
 the genesis of slow potentials in the brain](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008143). 
 
